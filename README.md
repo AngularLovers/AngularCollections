@@ -1,8 +1,14 @@
-## 一、 官方网站
+![](http://static.xiaomo.info/images/angular.png)
+
+## 一 、前言
+由于对angular的强烈喜爱和接触，收集了一些相关的资料。由于现在angular2还是比较新的技术，所以相关生态圈并不完善。因此我将平时接触到优秀的东西分享在github上，希望对各位使用angular的朋友有所帮助。由于个人精力有限，接触的东西比较浅，如果你有什么比较好的东西欢迎pull request。最后，如果你觉得这个项目中提到的内容给你带来的方便，也希望给个star鼓励一下。
+
+
+## 二、 官方网站
 中文站点：[https://angular.cn/](https://angular.cn/)    
 英文站点：[https://angular.io/](https://angular.io/)      
 
-## 二、脚手架
+## 三、脚手架
 1. 后台模板      
 github:[https://github.com/akveo/ng2-admin](https://github.com/akveo/ng2-admin)      
 文档:[http://akveo.com/ng2-admin/](http://akveo.com/ng2-admin/)                 
