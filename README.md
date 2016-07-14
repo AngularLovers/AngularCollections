@@ -20,4 +20,5 @@ github:  [https://github.com/primefaces/primeng](https://github.com/primefaces/p
 github:  [https://github.com/primefaces/primeui](https://github.com/primefaces/primeui)
 文档： [http://www.primefaces.org/primeng](http://www.primefaces.org/primeng)
 
-5. 
+5. 官网seed
+ [https://github.com/angular/angular-seed](https://github.com/angular/angular-seed)
