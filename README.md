@@ -4,7 +4,7 @@
 
 ## 二、脚手架
 1. 后台模板      
-github: ng2-admin [https://github.com/akveo/ng2-admin](https://github.com/akveo/ng2-admin)      
+github:[https://github.com/akveo/ng2-admin](https://github.com/akveo/ng2-admin)      
 文档:[http://akveo.com/ng2-admin/](http://akveo.com/ng2-admin/)                 
 
 2. bootstrap组件库        
