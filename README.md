@@ -17,7 +17,7 @@ github:[https://github.com/akveo/ng2-admin](https://github.com/akveo/ng2-admin)
 github:ng2-bootstrap [https://github.com/valor-software/ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap)               
 文档：[http://valor-software.github.io/ng2-bootstrap](http://valor-software.github.io/ng2-bootstrap)            
 
-3. angular官网库         
+3. ng2-material库         
 github: [https://github.com/justindujardin/ng2-material](https://github.com/justindujardin/ng2-material)            
 文档：[https://justindujardin.github.io/ng2-material/](https://justindujardin.github.io/ng2-material/)       
           
