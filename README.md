@@ -8,7 +8,7 @@
 中文站点：[https://angular.cn/](https://angular.cn/)    
 英文站点：[https://angular.io/](https://angular.io/)      
 
-## 三、脚手架
+## 三、各种资源
 1. 后台模板      
 github:[https://github.com/akveo/ng2-admin](https://github.com/akveo/ng2-admin)      
 文档:[http://akveo.com/ng2-admin/](http://akveo.com/ng2-admin/)                 
@@ -26,5 +26,36 @@ github:  [https://github.com/primefaces/primeng](https://github.com/primefaces/p
 github:  [https://github.com/primefaces/primeui](https://github.com/primefaces/primeui)       
 文档： [http://www.primefaces.org/primeng](http://www.primefaces.org/primeng)                            
 
-5. 官网seed    
+5. 官方seed    
  [https://github.com/angular/angular-seed](https://github.com/angular/angular-seed)      
+
+6. AngularClass脚手架   
+[https://github.com/AngularClass/angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)    
+
+7. ng2-chart    
+github:[https://github.com/valor-software/ng2-charts](https://github.com/valor-software/ng2-charts)    
+文档：[http://valor-software.github.io/ng2-charts/](http://valor-software.github.io/ng2-charts/)                   
+
+8. ng2-file-upload
+github:[https://github.com/valor-software/ng2-file-upload](https://github.com/valor-software/ng2-file-upload)               
+文档：[http://valor-software.github.io/ng2-file-upload/](http://valor-software.github.io/ng2-file-upload/)          
+
+9. ng2-table
+github:[https://github.com/valor-software/ng2-table](https://github.com/valor-software/ng2-table)            
+文档：[http://valor-software.github.io/ng2-table/](http://valor-software.github.io/ng2-table/)              
+
+10. ng2-dragula
+github：[https://github.com/valor-software/ng2-dragula](https://github.com/valor-software/ng2-dragula)                    
+文档: [http://valor-software.com/ng2-dragula/](http://valor-software.com/ng2-dragula/)           
+
+11. ng2-tree 
+github: [https://github.com/valor-software/ng2-tree](https://github.com/valor-software/ng2-tree)        
+文档： [https://rychkog.github.io/ng2-branchy/](https://rychkog.github.io/ng2-branchy/)                             
+
+12. ng2-select
+github: [https://github.com/valor-software/ng2-select](https://github.com/valor-software/ng2-select)         
+文档：[http://valor-software.github.io/ng2-select/](http://valor-software.github.io/ng2-select/)            
+
+13. ng2-quickstart
+github: [https://github.com/valor-software/angular2-quickstart](https://github.com/valor-software/angular2-quickstart)         
+
