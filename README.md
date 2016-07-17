@@ -56,6 +56,6 @@ github: [https://github.com/valor-software/ng2-tree](https://github.com/valor-so
 github: [https://github.com/valor-software/ng2-select](https://github.com/valor-software/ng2-select)         
 文档：[http://valor-software.github.io/ng2-select/](http://valor-software.github.io/ng2-select/)            
 
-13. ng2-quickstart  
+13. ng2-quickstart    
 github: [https://github.com/valor-software/angular2-quickstart](https://github.com/valor-software/angular2-quickstart)         
 
