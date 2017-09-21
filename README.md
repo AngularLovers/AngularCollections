@@ -59,10 +59,10 @@ github: [https://github.com/valor-software/ng2-select](https://github.com/valor-
 13. ng2-quickstart    
 github: [https://github.com/valor-software/angular2-quickstart](https://github.com/valor-software/angular2-quickstart)         
 
-14. 后台模板coreui
-github: [https://github.com/mrholek/CoreUI-Angular](https://github.com/mrholek/CoreUI-Angular) 
-在线演示：[http://coreui.io/demo/Angular2_Demo/#/dashboard](http://coreui.io/demo/Angular2_Demo/#/dashboard) 
+14. 后台模板coreui    
+github: [https://github.com/mrholek/CoreUI-Angular](https://github.com/mrholek/CoreUI-Angular)    
+在线演示：[http://coreui.io/demo/Angular2_Demo/#/dashboard](http://coreui.io/demo/Angular2_Demo/#/dashboard)    
 
-15. ng-zorro-antd库
-github: [https://github.com/NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) 
-文档：[https://ng.ant.design/](https://ng.ant.design/) 
+15. ng-zorro-antd库  
+github: [https://github.com/NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)  
+文档：[https://ng.ant.design/](https://ng.ant.design/)     
