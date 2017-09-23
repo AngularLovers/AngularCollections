@@ -59,3 +59,13 @@ github: [https://github.com/valor-software/ng2-select](https://github.com/valor-
 13. ng2-quickstart    
 github: [https://github.com/valor-software/angular2-quickstart](https://github.com/valor-software/angular2-quickstart)         
 
+14. ngx-bootstrap    
+github: [http://valor-software.com/ngx-bootstrap](http://valor-software.com/ngx-bootstrap)      
+
+15. tinymce （不错的富文本编辑器）    
+github: [https://github.com/tinymce/tinymce](https://github.com/tinymce/tinymce)    
+文档：[https://www.tinymce.com/](https://www.tinymce.com/)    
+
+16. mydatepicker （日期选择插件）    
+github: [https://github.com/angularLovers/mydatepicker](https://github.com/angularLovers/mydatepicker)    
+示例：[http://kekeh.github.io/mydatepicker](http://kekeh.github.io/mydatepicker)    
