@@ -83,6 +83,6 @@ github: [https://github.com/angularLovers/mydatepicker](https://github.com/angul
 github: [https://github.com/akveo/ngx-admin](https://github.com/akveo/ngx-admin)    
 在线演示：[http://akveo.com/ngx-admin/#/pages/dashboard](http://akveo.com/ngx-admin/#/pages/dashboard)    
 
-20. nebular库（全功能库，相似于ng-zorro）    
+20. nebular库（全功能库，相似于ng-zorro-antd）    
 github: [https://github.com/akveo/nebular](https://github.com/akveo/nebular)    
 文档：[https://akveo.github.io/nebular/#/docs](https://akveo.github.io/nebular/#/docs)     
