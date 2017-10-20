@@ -85,4 +85,8 @@ github: [https://github.com/akveo/ngx-admin](https://github.com/akveo/ngx-admin)
 
 20. nebular库（全功能库，相似于ng-zorro-antd）    
 github: [https://github.com/akveo/nebular](https://github.com/akveo/nebular)    
-文档：[https://akveo.github.io/nebular/#/docs](https://akveo.github.io/nebular/#/docs)     
+文档：[https://akveo.github.io/nebular/#/docs](https://akveo.github.io/nebular/#/docs)    
+
+21. element-angular库（全功能ui库)
+github: [element-angular](https://github.com/eleme/element-angular)    
+文档：[element-angular-docs](https://element-angular.faas.ele.me/)    
