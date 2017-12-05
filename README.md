@@ -64,7 +64,7 @@ github: [https://github.com/valor-software/angular2-quickstart](https://github.c
 github: [https://github.com/mrholek/CoreUI-Angular](https://github.com/mrholek/CoreUI-Angular)    
 在线演示：[http://coreui.io/demo/Angular2_Demo/#/dashboard](http://coreui.io/demo/Angular2_Demo/#/dashboard)    
 
-15. ng-zorro-antd库(蚂蚁金服的angular开源组件库)      
+15. ng-zorro-antd库(蚂蚁金服的angular开源组件库)    
 github: [https://github.com/NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)  
 文档：[https://ng.ant.design/](https://ng.ant.design/)     
 
